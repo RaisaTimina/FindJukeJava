@@ -1,5 +1,7 @@
 
 
-In order to run the project follow given link + specify desired settings ID:
-http://localhost:4567/compare/
+In order to run the project follow base link: "http://localhost:4567/compare/" + specify desired settings ID and/or offset and limit. 
+
+Examples:
 http://localhost:4567/compare/358a044e-decc-47cc-aaf1-e2253a00998e
+http://localhost:4567/compare/358a044e-decc-47cc-aaf1-e2253a00998e/1/10
